@@ -52,4 +52,9 @@ main {
   font-size: 15px;
   cursor: pointer;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.08);
+  transition: all 1s ease-in-out;
+}
+
+.write-btn:hover {
+  background-color: rgba(254, 111, 15, 0.8);
 }
